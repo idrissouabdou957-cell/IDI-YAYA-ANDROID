@@ -1,4 +1,4 @@
-# IDI YAYA LOCAL SERVICE - Android
+app
 Application Android WebView pour https://heartfelt-madeleine-93f370.netlify.app
 
 ## Compilation
